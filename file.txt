@@ -1,0 +1,21 @@
+Yes, I can see the problem in your screenshot.
+
+You are on the correct official PM-JAY Beneficiary Portal, but it is showing:
+
+“No Beneficiaries found in given Search Criteria”
+
+The important point is that you are searching with PMJAY Card Number + District = North 24 Parganas. The card number you entered is not being found with those exact search parameters.
+
+Try this first
+Keep:
+Scheme: PMJAY
+State: WEST BENGAL
+Sub Scheme: PMJAY
+For District, try changing it to ALL if that option is available.
+Change Search By from PMJAY Card Number to another available option, preferably:
+Aadhaar Number, or
+Name, or
+Family ID/Ration Card, depending on what the dropdown offers.
+Search again.
+
+The official PM-JAY beneficiary system supports searching beneficiaries through identifiers such as name,
