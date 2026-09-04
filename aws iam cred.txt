@@ -1,0 +1,4 @@
+Q1. You attached an internet gateway to a public subnet and launched an EC2 instance in it, but you still can’t access it over the internet. What might be missing?
+
+Q2. You’ve deployed a DaemonSet to run a monitoring agent on all nodes across your EKS cluster. It works fine on most nodes, but on some nodes, the DaemonSet pods are not getting created. The nodes are healthy and running other pods. What could be the issue and how would you fix it?
+
